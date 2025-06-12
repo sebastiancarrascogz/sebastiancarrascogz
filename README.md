@@ -7,7 +7,8 @@
 ---
 
 ### 🚀 About me...
-- 💻 Always exploring new areas in Machine Learning and Data Science.  
+- 💻 Always exploring new areas in Machine Learning and Data Science.
+- 🧱 Experienced in ETL development, data pipelines, modeling, and data analysis.
 - 🧩 For me, perfection is the balance between creativity and efficiency.  
 - 🔭 Expanding my horizons as far as possible...
 
