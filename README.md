@@ -1,12 +1,12 @@
 
-# 👋🏻 Hey, I'm Sebastián Carrasco
+# 👋Hey, I'm Sebastián Carrasco
 
 📍 From Chile | 🧠 Passionate about new technologies, the AI and the Digital Aesthetics
 🎓 Civil Engineer in Geography | 💼 Growing Data Scientist/Engineer
 
 ---
 
-### 🚀 About me...
+### About me...
 - 💻 Always exploring new areas in Machine Learning and Data Science.
 - 🧱 Experienced in ETL development, data pipelines, modeling, and data analysis.
 - 🧩 For me, perfection is the balance between creativity and efficiency.  
