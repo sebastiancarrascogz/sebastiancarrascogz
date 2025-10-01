@@ -1,5 +1,5 @@
 
-# 👋Hey, I'm Sebastián Carrasco
+# Hey, I'm Sebastián Carrasco
 
 📍 From Chile | 🧠 Passionate about new technologies, the AI and the Digital Aesthetics
 🎓 Civil Engineer in Geography | 💼 Growing Data Scientist/Engineer
