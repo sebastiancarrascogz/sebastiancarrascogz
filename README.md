@@ -28,13 +28,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 
----
-
-### 📊 GitHub Stats
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiancarrascogz&show_icons=true&theme=github_dark)
-
----
-
 ### 🌐 Contact
 - 📫 Mail: [sebastian.carrasco.g@usach.cl](mailto:sebastian.carrasco.g@usach.com)
 - 💼 LinkedIn: [linkedin.com/in/SebastianCarrascoGonzalez](https://www.linkedin.com/in/sebasti%C3%A1n-carrasco-gonz%C3%A1lez-953900211)
