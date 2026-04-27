@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Part of my tech arsenal
+### Part of my tech arsenal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -27,6 +27,8 @@
 ![arcpy](https://img.shields.io/badge/arcpy%20(ArcGIS%20Python)-green?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
+### Projects
+- [🚲 Cyclistic Bike-Share Case Study](https://github.com/sebastiancarrascogz/cyclistic-case-study)
 
 ### 🌐 Contact
 - 📫 Mail: [sebastian.carrasco.g@usach.cl](mailto:sebastian.carrasco.g@usach.com)
