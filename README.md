@@ -29,7 +29,7 @@
 ### Projects
 - [🚕 NYC Yellow Taxi Data Pipeline](https://github.com/sebastiancarrascogz/nyc-yellow-taxi)
 - [🚲 Cyclistic Bike-Share Case Study](https://github.com/sebastiancarrascogz/cyclistic-case-study)
-- [🔥 Dashboard de Incendios Forestales en Chile](https://github.com/sebastiancarrascogz/chile-wildfires-pipeline)
+- [🔥 Chile Wildfires Dashboard](https://github.com/sebastiancarrascogz/chile-wildfires-pipeline)
 
 ### 🌐 Contact
 - 📫 Mail: [sebastian.carrasco.g@usach.cl](mailto:sebastian.carrasco.g@usach.com)
