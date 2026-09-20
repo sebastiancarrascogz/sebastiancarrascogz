@@ -27,6 +27,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ### Projects
+- [🚕 NYC Yellow Taxi Data Pipeline](https://github.com/sebastiancarrascogz/nyc-yellow-taxi)
 - [🚲 Cyclistic Bike-Share Case Study](https://github.com/sebastiancarrascogz/cyclistic-case-study)
 - [🔥 Dashboard de Incendios Forestales en Chile](https://github.com/sebastiancarrascogz/chile-wildfires-pipeline)
 
