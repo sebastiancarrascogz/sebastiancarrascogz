@@ -17,6 +17,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFDD00?style=flat&logo=duckduckgo&logoColor=black)
@@ -24,7 +28,6 @@
 ![DLT](https://img.shields.io/badge/DLT-Hub-00B2FF?style=flat&logo=databricks&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-0078D4?style=flat&logo=arcgis&logoColor=white)
 ![arcpy](https://img.shields.io/badge/arcpy%20(ArcGIS%20Python)-green?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ### Projects
 - [🚕 NYC Yellow Taxi Data Pipeline](https://github.com/sebastiancarrascogz/nyc-yellow-taxi)
